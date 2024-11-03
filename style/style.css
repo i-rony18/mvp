@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 30%;
+  max-width: 40%;
   height: auto;
 }
 
@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 100px;
   top: -35px;
-  left: 31.5%;
+  left: 40px;
   /* transform: scale(0.1); */
 }
 
