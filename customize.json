@@ -3,7 +3,7 @@
   "name": "Pgl",
   "greetingText": "Kya haal hai tere",
   "wishText": "I hope iske baad tera mood sahi rahega thoda ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/mvp.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy 21st birthday to you!! and on this day....",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Chal phir, wpis aa aur tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
